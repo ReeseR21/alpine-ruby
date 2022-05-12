@@ -1,17 +1,23 @@
 #this is a test from vim.
-print "hello"/n
+#print "hello"
 
-puts "this is written in a new line"
+#puts "this is written in a new line"
 
-print "still printing"
+#print "still printing"
 
-def some_method(number)
-	number = 7
-end
+#def some_method(number)
+#	number = 7
+#end
 
-a = 5
-some_method(a)
+#a = 5
+#some_method(a)
 
-puts a
+#puts a
+
+#fname = "John"
+#lname = "Doe"
+
+
+#puts fname + " " + lname
 
 
